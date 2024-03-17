@@ -13,16 +13,6 @@
 
 -  👨‍💻 All of my projects are available at [https://github.com/Harsh-patil28](https://github.com/Harsh-patil28)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/harsh-patil-4170a3264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar-patil1832" height="30" width="40" /></a>
-<a href="https://medium.com/@omkarp1832" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@omkarp1832" height="30" width="40" /></a>
-</p>
-  
-<a href="https://www.youtube.com/c/www.youtube.com/@engineeringenigmahp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@engineeringenigmahp" height="30" width="40" /></a>
-
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/patilharsh238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/patilharsh238" height="30" width="40" /></a>
-</p>
 
 
 
