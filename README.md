@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-patil28&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-patil28" /> </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh-patil28&show_icons=true&locale=en" alt="harsh-patil28" /></p>
+
 - 🌱 I’m currently pursuing **BE in Electronics and Communication**
 
 -  📫 How to reach me **patilharsh238@gmail.com**
